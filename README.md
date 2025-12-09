@@ -1,6 +1,6 @@
-## ErredeSys 👋
+## ErredeSys 💻
 
-💻 System Administrator | Python Developer | Excel Expert
+System Administrator | Python Developer | Excel Expert
 
 - Experienced System Administrator with a strong background in maintaining, configuring, and optimizing IT systems.
 - Proficient in Python for automation, scripting, and system management.
