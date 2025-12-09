@@ -2,11 +2,11 @@
 
 💻 System Administrator | Python Developer | Excel Expert
 
-##🔹 Experienced System Administrator with a strong background in maintaining, configuring, and optimizing IT systems.
-##🔹 Proficient in Python for automation, scripting, and system management.
-##🔹 Advanced skills in Microsoft Excel for data analysis, reporting, and workflow optimization.
-##🔹 Skilled in troubleshooting, network management, and ensuring system security.
-##🔹 Strong problem-solving skills with attention to detail and efficiency.
+- Experienced System Administrator with a strong background in maintaining, configuring, and optimizing IT systems.
+- Proficient in Python for automation, scripting, and system management.
+- Advanced skills in Microsoft Excel for data analysis, reporting, and workflow optimization.
+- Skilled in troubleshooting, network management, and ensuring system security.
+- Strong problem-solving skills with attention to detail and efficiency.
 
 🛠 Key Skills:
 
